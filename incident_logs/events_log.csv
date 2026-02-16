@@ -1,0 +1,155 @@
+timestamp,event_type,severity,description,image_path
+2025-12-08 00:33:42,child,MEDIUM,Unsupervised child detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\child_20251208_003339.jpg
+2025-12-08 00:33:47,fight,HIGH,Fight-like movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fight_20251208_003346.jpg
+2025-12-08 00:33:55,crowd,MEDIUM,Crowd detected: 3 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_003352.jpg
+2025-12-08 00:33:58,fight,HIGH,Fight-like movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fight_20251208_003356.jpg
+2025-12-08 00:34:01,child,MEDIUM,Unsupervised child detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\child_20251208_003359.jpg
+2025-12-08 00:34:05,fall,MEDIUM,Possible fall detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_003403.jpg
+2025-12-08 00:34:13,zone,LOW,Person entered restricted zone,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\zone_20251208_003406.jpg
+2025-12-08 00:34:18,child,MEDIUM,Unsupervised child detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\child_20251208_003415.jpg
+2025-12-08 00:34:20,crowd,MEDIUM,Crowd detected: 3 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_003419.jpg
+2025-12-08 00:34:22,fight,HIGH,Fight-like movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fight_20251208_003421.jpg
+2025-12-08 00:34:30,weapon,HIGH,Dangerous objects detected: bottle,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\weapon_20251208_003429.jpg
+2025-12-08 00:34:33,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251208_003432.jpg
+2025-12-08 00:34:37,crowd,MEDIUM,Crowd detected: 3 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_003435.jpg
+2025-12-08 00:34:40,child,MEDIUM,Unsupervised child detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\child_20251208_003439.jpg
+2025-12-08 00:34:42,fight,HIGH,Fight-like movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fight_20251208_003441.jpg
+2025-12-08 00:34:53,fight,HIGH,Fight-like movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fight_20251208_003452.jpg
+2025-12-08 00:35:00,child,MEDIUM,Unsupervised child detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\child_20251208_003459.jpg
+2025-12-08 00:35:05,weapon,HIGH,Dangerous objects detected: knife,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\weapon_20251208_003503.jpg
+2025-12-08 00:35:10,fight,HIGH,Fight-like movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fight_20251208_003509.jpg
+2025-12-08 00:55:44,crowd,MEDIUM,Crowd: 3 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_005544.jpg
+2025-12-08 00:56:00,crowd,MEDIUM,Crowd: 3 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_005600.jpg
+2025-12-08 00:56:02,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_005602.jpg
+2025-12-08 00:56:16,crowd,MEDIUM,Crowd: 3 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_005616.jpg
+2025-12-08 00:56:32,crowd,MEDIUM,Crowd: 3 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_005632.jpg
+2025-12-08 00:56:52,crowd,MEDIUM,Crowd: 3 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_005652.jpg
+2025-12-08 16:18:23,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_161823.jpg
+2025-12-08 16:18:44,crowd,MEDIUM,Crowd: 5 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_161844.jpg
+2025-12-08 16:18:46,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_161846.jpg
+2025-12-08 16:18:56,weapon,HIGH,Dangerous: scissors,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\weapon_20251208_161856.jpg
+2025-12-08 16:18:58,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_161858.jpg
+2025-12-08 16:19:00,crowd,MEDIUM,Crowd: 3 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_161900.jpg
+2025-12-08 17:25:27,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_172527.jpg
+2025-12-08 17:25:37,crowd,MEDIUM,Crowd: 3 people,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251208_172537.jpg
+2025-12-08 17:26:22,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_172622.jpg
+2025-12-08 17:26:28,face_unknown,MEDIUM,Unknown person detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251208_172628.jpg
+2025-12-08 17:26:54,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_172653.jpg
+2025-12-08 17:27:12,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_172712.jpg
+2025-12-08 22:55:22,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251208_225522.jpg
+2025-12-08 22:55:33,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_225533.jpg
+2025-12-08 22:55:36,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251208_225536.jpg
+2025-12-08 22:55:43,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251208_225543.jpg
+2025-12-08 22:55:48,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251208_225548.jpg
+2025-12-08 22:55:52,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251208_225552.jpg
+2025-12-08 22:56:00,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251208_225600.jpg
+2025-12-19 12:39:19,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_123918.jpg
+2025-12-19 12:39:59,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_123959.jpg
+2025-12-19 12:40:11,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_124011.jpg
+2025-12-19 12:40:16,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_124016.jpg
+2025-12-19 12:40:23,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_124023.jpg
+2025-12-19 12:40:36,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_124036.jpg
+2025-12-19 12:40:42,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_124042.jpg
+2025-12-19 12:41:03,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_124103.jpg
+2025-12-19 12:41:21,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_124121.jpg
+2025-12-19 12:41:42,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_124142.jpg
+2025-12-19 12:41:52,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_124152.jpg
+2025-12-19 12:41:58,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_124158.jpg
+2025-12-19 12:42:01,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_124201.jpg
+2025-12-19 12:42:03,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_124203.jpg
+2025-12-19 12:42:07,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_124207.jpg
+2025-12-19 12:42:10,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_124210.jpg
+2025-12-19 12:42:13,crowd,MEDIUM,Crowd detected (4),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_124213.jpg
+2025-12-19 13:20:09,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_132009.jpg
+2025-12-19 13:20:15,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132015.jpg
+2025-12-19 13:20:30,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132030.jpg
+2025-12-19 13:20:37,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_132037.jpg
+2025-12-19 13:20:43,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132043.jpg
+2025-12-19 13:20:45,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_132045.jpg
+2025-12-19 13:20:50,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_132050.jpg
+2025-12-19 13:20:52,crowd,MEDIUM,Crowd detected (4),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_132052.jpg
+2025-12-19 13:20:55,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132055.jpg
+2025-12-19 13:20:57,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_132057.jpg
+2025-12-19 13:21:03,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_132103.jpg
+2025-12-19 13:21:08,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_132108.jpg
+2025-12-19 13:21:10,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_132110.jpg
+2025-12-19 13:21:14,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132114.jpg
+2025-12-19 13:21:16,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_132116.jpg
+2025-12-19 13:21:20,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_132120.jpg
+2025-12-19 13:21:23,crowd,MEDIUM,Crowd detected (4),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_132123.jpg
+2025-12-19 13:21:27,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132127.jpg
+2025-12-19 13:21:32,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_132132.jpg
+2025-12-19 13:21:38,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_132138.jpg
+2025-12-19 13:21:40,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132140.jpg
+2025-12-19 13:21:46,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_132146.jpg
+2025-12-19 13:21:48,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_132148.jpg
+2025-12-19 13:21:51,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_132151.jpg
+2025-12-19 13:21:54,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132154.jpg
+2025-12-19 13:22:06,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132206.jpg
+2025-12-19 13:22:11,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_132211.jpg
+2025-12-19 13:22:14,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_132214.jpg
+2025-12-19 13:22:19,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_132219.jpg
+2025-12-19 13:22:23,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132223.jpg
+2025-12-19 13:22:35,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_132235.jpg
+2025-12-19 13:22:37,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132237.jpg
+2025-12-19 13:22:50,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132250.jpg
+2025-12-19 13:22:52,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_132252.jpg
+2025-12-19 13:23:02,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132302.jpg
+2025-12-19 13:23:06,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_132306.jpg
+2025-12-19 13:23:22,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132322.jpg
+2025-12-19 13:23:40,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132340.jpg
+2025-12-19 13:23:44,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_132344.jpg
+2025-12-19 13:23:49,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_132349.jpg
+2025-12-19 13:23:52,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132352.jpg
+2025-12-19 13:24:05,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_132405.jpg
+2025-12-19 13:24:07,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_132407.jpg
+2025-12-19 13:40:51,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_134051.jpg
+2025-12-19 13:40:55,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_134055.jpg
+2025-12-19 13:41:03,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_134103.jpg
+2025-12-19 13:41:06,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_134106.jpg
+2025-12-19 13:41:09,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_134109.jpg
+2025-12-19 13:41:12,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_134112.jpg
+2025-12-19 13:41:15,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_134115.jpg
+2025-12-19 13:41:17,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_134117.jpg
+2025-12-19 13:41:21,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_134121.jpg
+2025-12-19 13:41:28,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_134128.jpg
+2025-12-19 13:41:30,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_134130.jpg
+2025-12-19 13:41:38,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_134138.jpg
+2025-12-19 13:41:43,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_134143.jpg
+2025-12-19 13:41:44,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_134144.jpg
+2025-12-19 13:41:48,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_134148.jpg
+2025-12-19 13:41:50,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_134150.jpg
+2025-12-19 13:41:53,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_134153.jpg
+2025-12-19 13:41:55,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_134155.jpg
+2025-12-19 13:42:01,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_134201.jpg
+2025-12-19 13:42:17,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_134217.jpg
+2025-12-19 13:42:21,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_134221.jpg
+2025-12-19 13:42:23,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_134223.jpg
+2025-12-19 13:42:25,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_134225.jpg
+2025-12-19 13:42:26,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_134226.jpg
+2025-12-19 13:42:34,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_134234.jpg
+2025-12-19 13:42:41,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_134241.jpg
+2025-12-19 13:42:44,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_134244.jpg
+2025-12-19 13:42:46,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_134246.jpg
+2025-12-19 14:05:53,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_140553.jpg
+2025-12-19 14:05:58,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_140558.jpg
+2025-12-19 14:06:04,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_140604.jpg
+2025-12-19 14:06:14,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_140614.jpg
+2025-12-19 14:06:17,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_140617.jpg
+2025-12-19 14:06:27,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_140627.jpg
+2025-12-19 14:06:46,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_140646.jpg
+2025-12-19 14:06:59,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_140659.jpg
+2025-12-19 14:07:08,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_140708.jpg
+2025-12-19 14:07:10,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_140710.jpg
+2025-12-19 14:07:12,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_140712.jpg
+2025-12-19 14:07:15,crowd,MEDIUM,Crowd detected (3),C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\crowd_20251219_140715.jpg
+2025-12-19 14:07:22,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_140722.jpg
+2025-12-19 14:07:25,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_140725.jpg
+2025-12-19 14:07:28,fall,MEDIUM,Possible fall,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fall_20251219_140728.jpg
+2025-12-19 14:07:34,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_140734.jpg
+2025-12-19 14:34:52,face_unknown,MEDIUM,Unknown face detected!,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\face_unknown_20251219_143452.jpg
+2025-12-19 14:35:05,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_143505.jpg
+2025-12-19 14:35:17,fire,HIGH,Fire-like region detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\fire_20251219_143517.jpg
+2025-12-19 14:35:18,behavior,MEDIUM,HIGH-RISK: Aggressive/Rapid behavior,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_143518.jpg
+2025-12-19 14:35:36,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_143536.jpg
+2025-12-19 14:36:05,behavior,MEDIUM,Suspicious movement detected,C:\Users\LENOVO\Desktop\AI-Public-Safety-Monitor\incident_logs\behavior_20251219_143605.jpg
