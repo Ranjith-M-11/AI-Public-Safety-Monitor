@@ -1,4 +1,5 @@
 🚨 AI Public Safety Monitor
+
 Real-Time Threat Detection System using YOLOv8, Computer Vision, and Machine Learning
 
 📌 Overview
@@ -13,61 +14,41 @@ This project demonstrates practical implementation of real-time AI-based surveil
 
 🔍 Real-Time Object Detection
 
-Detects persons, weapons, and suspicious objects
-
-Uses YOLOv8 deep learning model
-
-High-speed and accurate detection
-
+1.Detects persons, weapons, and suspicious objects
+2.Uses YOLOv8 deep learning model
+3.High-speed and accurate detection
 
 ⚠️ Weapon Detection
-
 Detects dangerous objects such as:
 
-Knife
-
-Bottle
-
-Scissors
-
-Suspicious carried objects
-
+1.Knife
+2.Bottle
+3.Scissors
+4.Suspicious carried objects
 
 Automatically:
 
-Saves screenshot
-
-Sends alert
-
-Logs incident
-
+5.Saves screenshot
+6.Sends alert
+7.Logs incident
 
 🔥 Fire Detection
 
-Detects fire-like regions using image analysis
-
-Triggers alerts instantly
-
-Records evidence
-
+1.Detects fire-like regions using image analysis
+2.Triggers alerts instantly
+3.Records evidence
 
 🥊 Fight Detection
 
-Detects aggressive motion patterns
-
-Identifies possible fight situations
-
-Uses movement and proximity analysis
-
+1.Detects aggressive motion patterns
+2.Identifies possible fight situations
+3.Uses movement and proximity analysis
 
 👤 Person Tracking System
 
-Assigns unique ID to each person
-
-Tracks person movement across frames
-
-Useful for surveillance and monitoring
-
+1.Assigns unique ID to each person
+2.Tracks person movement across frames
+3.Useful for surveillance and monitoring
 
 Example:
 
@@ -76,103 +57,67 @@ Person ID: 2
 
 🧠 Face Recognition System
 
-Recognizes known persons
-
-Detects unknown persons
-
-Generates alert for unknown individuals
+1.Recognizes known persons
+2.Detects unknown persons
+3.Generates alert for unknown individuals
 
 🚫 Restricted Zone Monitoring
 
-Detects unauthorized entry into restricted area
-
-Triggers instant alerts
-
-Logs intrusion event
-
+1.Detects unauthorized entry into restricted area
+2.Triggers instant alerts
+3.Logs intrusion event
 
 🎥 Automatic Video Recording
 
-Automatically records video when threat detected
-
-Stores video evidence
-
-Saves in incident_logs/videos/
-
+1.Automatically records video when threat detected
+2.Stores video evidence
+3.Saves in incident_logs/videos/
 
 📊 Heatmap Visualization
 
-Shows movement density of persons
-
-Useful for behavior analysis
-
-Helps identify crowded areas
-
+1.Shows movement density of persons
+2.Useful for behavior analysis
+3.Helps identify crowded areas
 
 📩 Alert System
 
-Provides alerts via:
-
-Sound alarm
-
-Desktop notification
-
-Telegram notification
-
-Screenshot capture
-
-Incident logging
-
+1.Provides alerts via:
+2.Sound alarm
+3.Desktop notification
+4.Telegram notification
+5.Screenshot capture
+6.Incident logging
 
 🧠 Machine Learning Model Used
-YOLOv8 (You Only Look Once v8)
 
-Real-time object detection model
-
-Pre-trained on COCO dataset
-
-High accuracy and speed
-
-Lightweight and efficient
+1.YOLOv8 (You Only Look Once v8)
+2.Real-time object detection model
+3.Pre-trained on COCO dataset
+4.High accuracy and speed
+5.Lightweight and efficient
 
 Model file used:
-
-yolov8n.pt
-
+-yolov8n.pt
 
 🛠️ Technologies Used
 
-Programming Language:
-
-Python 3.11
+1.Programming Language:
+2.Python 3.11
 
 Libraries and Frameworks:
-
-OpenCV
-
-Ultralytics YOLOv8
-
-NumPy
-
-Telebot (Telegram Bot API)
-
-Plyer (Notifications)
-
+1.OpenCV
+2.Ultralytics YOLOv8
+3.NumPy
+4.Telebot (Telegram Bot API)
+5.Plyer (Notifications)
 
 Concepts:
-
-Machine Learning
-
-Computer Vision
-
-Object Detection
-
-Face Recognition
-
-Motion Tracking
-
-Real-Time Monitoring Systems
-
+1.Machine Learning
+2.Computer Vision
+3.Object Detection
+4.Face Recognition
+5.Motion Tracking
+6.Real-Time Monitoring Systems
 
 📂 Project Structure
 AI-Public-Safety-Monitor/
@@ -201,7 +146,6 @@ cd AI-Public-Safety-Monitor
 Step 3: Create Virtual Environment (Recommended)
 python -m venv venv
 
-
 Activate:
 
 venv\Scripts\activate
@@ -215,68 +159,46 @@ python src/main.py
 
 ⚙️ How It Works
 
-Webcam captures real-time video
-
-YOLOv8 detects objects in each frame
-
-System analyzes behavior and object type
-
-If threat detected:
-
-Screenshot saved
-
-Video recorded
-
-Alert sent
-
-Incident logged
-
-System continues monitoring continuously
+-Webcam captures real-time video
+-YOLOv8 detects objects in each frame
+-System analyzes behavior and object type
+-If threat detected:
+-Screenshot saved
+-Video recorded
+-Alert sent
+-Incident logged
+-System continues monitoring continuously
 
 
 📈 Applications
 
-Public safety monitoring
-
-Smart surveillance systems
-
-Crime detection systems
-
-Campus security systems
-
-Smart city monitoring
-
-Industrial safety monitoring
+-Public safety monitoring
+-Smart surveillance systems
+-Crime detection systems
+-Campus security systems
+-Smart city monitoring
+-Industrial safety monitoring
 
 
 🔒 Advantages
 
-Real-time detection
-
-Automated monitoring
-
-Offline system
-
-High accuracy
-
-Automatic evidence capture
+-Real-time detection
+-Automated monitoring
+-Offline system
+-High accuracy
+-Automatic evidence capture
 
 Fast and efficient
 
 
 🚀 Future Improvements
 
-Integration with CCTV cameras
-
-Cloud-based monitoring
-
-Mobile application support
-
-Advanced behavior prediction
-
-Multi-camera support
-
-AI crime prediction system
+-Integration with CCTV cameras
+-Cloud-based monitoring
+-Mobile application support
+-Advanced behavior prediction
+-Multi-camera support
+-AI crime prediction system
 
 👨‍💻 Author
 
